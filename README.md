@@ -1,2 +1,2 @@
 # TeamShooting
-LikeLion 팀프로젝트 1차
+LikeLion 1차 팀프로젝트
